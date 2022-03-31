@@ -1,1 +1,8 @@
-<h1> Hello world from heroku CI/CD! </h1>
+<html>
+ <head>
+  <title>PHP title</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello Dynos!</p>'; ?>
+ </body>
+</html>
